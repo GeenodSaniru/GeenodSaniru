@@ -1,5 +1,5 @@
 Hi there! 👋 I'm Geenod Saniru  
-🚀 Software Engineering Undergraduate | 👨‍💻 Tech Enthusiast | 🏗️ Building DevConnect
+🚀 Software Engineering Undergraduate | 👨‍💻 AL,ML Enthusiast | 🏗️ Building Tech Ideas
 
 ---
 🔧 Technologies & Tools
@@ -13,7 +13,7 @@ Hi there! 👋 I'm Geenod Saniru
 
 ---
 
-🏆 Achievements & Certifications
+🏆 Achievements & Certifications         
 ✅ **HackerRank 3⭐ in Python , 1⭐ in Java **  
 ✅ **Presented 'Machine Learning for Fraud Detection' at University**  
 
