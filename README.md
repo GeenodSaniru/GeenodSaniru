@@ -14,8 +14,7 @@ Hi there! 👋 I'm Geenod Saniru
 ---
 
 🏆 Achievements & Certifications
-✅ **HackerRank 1⭐ in Java**  
-✅ **Completed TryHackMe Offensive & Defensive Security Intro Courses**  
+✅ **HackerRank 3⭐ in Python , 1⭐ in Java **  
 ✅ **Presented 'Machine Learning for Fraud Detection' at University**  
 
 ---
@@ -27,9 +26,9 @@ Hi there! 👋 I'm Geenod Saniru
 ---
 
 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourgithub)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/geenod-saniru-4220141b7/)) 
+
+[![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourgithub](https://github.com/GeenodSaniru))
 
 
 
