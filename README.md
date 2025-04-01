@@ -1,12 +1,8 @@
-## Hi there 👋
-
-
-### Hi there! 👋 I'm [Your Name]  
+Hi there! 👋 I'm Geenod Saniru  
 🚀 Software Engineering Undergraduate | 👨‍💻 Tech Enthusiast | 🏗️ Building DevConnect
 
 ---
-
-### 🔧 Technologies & Tools
+🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,20 +13,20 @@
 
 ---
 
-### 🏆 Achievements & Certifications
+🏆 Achievements & Certifications
 ✅ **HackerRank 1⭐ in Java**  
 ✅ **Completed TryHackMe Offensive & Defensive Security Intro Courses**  
 ✅ **Presented 'Machine Learning for Fraud Detection' at University**  
 
 ---
 
-### 📌 Projects
+📌 Projects
 - **[DevConnect](https://github.com/yourgithub/DevConnect)** - A web forum for IT students to collaborate and learn.
 - **Kingword Clothing** - Co-founder of a clothing brand based in Colombo.
 
 ---
 
-### 📬 Let's Connect!
+📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourprofile) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourgithub)
