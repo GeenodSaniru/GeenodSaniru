@@ -1,6 +1,6 @@
 # ​​​ Geenod Saniru
 
-![artstation.com/artwork/v...](https://images.openai.com/thumbnails/url/RHfYAnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40dC3ztCwPKTAyq_LU9Sv0TUkO8_YMCrLMLyhLTapyz3AtqzKPTLQ0Tg8v9_L2s_T2SQ5wdS3wj_I3TlcrBgAPayl7)
+![Cozy Pixel-Art Desk Banner](https://easy-peasy.ai/ai-image-generator/images/pixel-art-person-gaming-pc-play-computer-now)
 
 ---
 
