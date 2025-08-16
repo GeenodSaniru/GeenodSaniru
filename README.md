@@ -1,34 +1,59 @@
-Hi there! 👋 I'm Geenod Saniru  
-🚀 Software Engineering Undergraduate | 👨‍💻 AL,ML Enthusiast | 🏗️ Building Tech Ideas
+# ​​​ Geenod Saniru
 
----
-🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![artstation.com/artwork/v...](https://images.openai.com/thumbnails/url/RHfYAnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw40dC3ztCwPKTAyq_LU9Sv0TUkO8_YMCrLMLyhLTapyz3AtqzKPTLQ0Tg8v9_L2s_T2SQ5wdS3wj_I3TlcrBgAPayl7)
 
 ---
 
-🏆 Achievements & Certifications         
-✅ **HackerRank 3⭐ in Python , 1⭐ in Java **  
-✅ **Presented 'Machine Learning for Fraud Detection' at University**  
+## ​ Education  
+- **NSBM Green University** — BSc (Hons) in Software Engineering  
 
 ---
 
-📌 Projects
-- **[DevConnect](https://github.com/yourgithub/DevConnect)** - A web forum for IT students to collaborate and learn.
-- **Kingword Clothing** - Co-founder of a clothing brand based in Colombo.
+## ​ Position  
+- Founder @ **NeuroForge** ⚙️  
 
 ---
 
-📬 Let's Connect!
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/geenod-saniru-4220141b7/)) 
+## ​ Projects  
+- **Ticky** — A sleek reminder app  
+- **ForgeDesk** — A productivity hub (I’m currently working on it)
 
-[![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourgithub](https://github.com/GeenodSaniru))
+---
+
+##  Languages & Skills  
+- **Python** *(AI/ML)*  
+- **Java**  
+- **Dart**  
+- **HTML**, **CSS**, **PHP**
+- 🌱 I’m currently learning AI and ML 
+
+---
+
+##  Memberships  
+- IEEE  
+- ASE (Association of Software Engineering)  
+
+---
+
+##  Links  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/geenod-saniru-4220141b7/))  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]((https://github.com/GeenodSaniru))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=firefox)]([https://yourportfolio.com](https://devquestjournal.wordpress.com/))  
+
+---
+
+##  Create Your Own ASCII or Pixel Art  
+Looking to add your own touch? Here are some great external tools:
+
+- **ASCII Art Archive** – A massive gallery of pre-made ASCII art (esp. computers, cozy scenes)  [oai_citation:0‡ASCII Art Archive](https://www.asciiart.eu/?utm_source=chatgpt.com)  
+- **ASCII Text Art Generator** – Quickly turn your text into ASCII designs with various fonts  [oai_citation:1‡coderstool.com](https://www.coderstool.com/ascii-text-art-generator?utm_source=chatgpt.com)  
+- **Pixilart** – Free and easy pixel art editor to craft your own sprites or cozy scenes  [oai_citation:2‡Pixilart](https://www.pixilart.com/draw?utm_source=chatgpt.com)  
+
+---
+
+*“Writing code one cozy pixel at a time.”*
+
+
 
 
 
