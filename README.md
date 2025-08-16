@@ -47,17 +47,6 @@
 
 ---
 
-##  Create Your Own ASCII or Pixel Art  
-Looking to add your own touch? Here are some great external tools:
-
-- **ASCII Art Archive** – A massive gallery of pre-made ASCII art (esp. computers, cozy scenes)  [oai_citation:0‡ASCII Art Archive](https://www.asciiart.eu/?utm_source=chatgpt.com)  
-- **ASCII Text Art Generator** – Quickly turn your text into ASCII designs with various fonts  [oai_citation:1‡coderstool.com](https://www.coderstool.com/ascii-text-art-generator?utm_source=chatgpt.com)  
-- **Pixilart** – Free and easy pixel art editor to craft your own sprites or cozy scenes  [oai_citation:2‡Pixilart](https://www.pixilart.com/draw?utm_source=chatgpt.com)  
-
----
-
-*“Writing code one cozy pixel at a time.”*
-
 
 
 
