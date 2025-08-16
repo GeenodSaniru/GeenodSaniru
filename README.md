@@ -1,6 +1,6 @@
 # ​​​ Geenod Saniru
 
-![Cozy Pixel-Art Desk Banner](https://easy-peasy.ai/ai-image-generator/images/pixel-art-person-gaming-pc-play-computer-now)
+![Cozy Coder Pixel Art](https://i.pinimg.com/originals/7d/d7/28/7dd7288f4dca6ff3eec39c6a35f8a1e7.gif)
 
 ---
 
